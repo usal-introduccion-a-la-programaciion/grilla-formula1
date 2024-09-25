@@ -25,7 +25,7 @@ Return: nada
 */
 
 
-/* Definir una Funcion para mostrar en pantalla la Grilla de salida
+/* Definir una Funcion muestroGrilla() para mostrar en pantalla la Grilla de salida
 Parámetros: recibe un array de piolotos y el número de pilotos
 Funcionalidad: Muestra en terminar la grilla de largada en función de los tiempos de clasificación
 Return: nada
@@ -35,14 +35,13 @@ Return: nada
 //Aplicación que calcula la Grilla de partida en funcion de los tiempos de clasificacion de los piolotos
 int main() {
 
-    // Cargo los datos de los pilotos con la funcion cargarDatosPiloto()
+    // Cargo los datos de los pilotos con la funcion cargarDatosPiloto() teniendo en cuenta sus parámetros y el valor de return
 
-    // Calculo el mejor tiempo del piloto ejecutando la función calcularMejorTiempo()
+    // Calculo el mejor tiempo del piloto ejecutando la función calcularMejorTiempo() teniendo en cuenta sus parámetros y el valor de return
     
-    // Ordeno los pilotos por el mejor tiempo con la funcion ordenarPilotos()
+    // Ordeno los pilotos por el mejor tiempo con la funcion ordenarPilotos() teniendo en cuenta sus parámetros y el valor de return
 
-
-    // Mostrar la grilla de salid:
+    // Mostrar la grilla de salid con la fumción muestroGrilla() teniendo en cuenta sus parámetros y el valor de return
 
 
     return 0;
