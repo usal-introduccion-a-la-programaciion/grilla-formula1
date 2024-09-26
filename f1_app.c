@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-// Estructura para almacenar la información de un piloto "struct Piloto"
+// Definir una estructura para almacenar la información de un piloto "struct Piloto"
 
 
 /* Definir una Funciónn "cargarDatosPiloto" para la carga de los datos
